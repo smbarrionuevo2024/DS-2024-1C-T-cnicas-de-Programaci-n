@@ -1,0 +1,16 @@
+C:\Users\sebas\source\repos\DS-2024-1C-Técnicas de Programación\Tarea5_Ej9\obj\Debug\net5.0\Tarea5_Ej9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\source\repos\DS-2024-1C-Técnicas de Programación\Tarea5_Ej9\obj\Debug\net5.0\Tarea5_Ej9.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\DS-2024-1C-Técnicas de Programación\Tarea5_Ej9\obj\Debug\net5.0\Tarea5_Ej9.AssemblyInfo.cs
+C:\Users\sebas\source\repos\DS-2024-1C-Técnicas de Programación\Tarea5_Ej9\obj\Debug\net5.0\Tarea5_Ej9.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\DS-2024-1C-Técnicas de Programación\Tarea5_Ej9\obj\Debug\net5.0\Tarea5_Ej9.sourcelink.json
+C:\Users\sebas\source\repos\DS-2024-1C-Técnicas de Programación\Tarea5_Ej9\bin\Debug\net5.0\Tarea5_Ej9.exe
+C:\Users\sebas\source\repos\DS-2024-1C-Técnicas de Programación\Tarea5_Ej9\bin\Debug\net5.0\Tarea5_Ej9.deps.json
+C:\Users\sebas\source\repos\DS-2024-1C-Técnicas de Programación\Tarea5_Ej9\bin\Debug\net5.0\Tarea5_Ej9.runtimeconfig.json
+C:\Users\sebas\source\repos\DS-2024-1C-Técnicas de Programación\Tarea5_Ej9\bin\Debug\net5.0\Tarea5_Ej9.runtimeconfig.dev.json
+C:\Users\sebas\source\repos\DS-2024-1C-Técnicas de Programación\Tarea5_Ej9\bin\Debug\net5.0\Tarea5_Ej9.dll
+C:\Users\sebas\source\repos\DS-2024-1C-Técnicas de Programación\Tarea5_Ej9\bin\Debug\net5.0\Tarea5_Ej9.pdb
+C:\Users\sebas\source\repos\DS-2024-1C-Técnicas de Programación\Tarea5_Ej9\obj\Debug\net5.0\Tarea5_Ej9.dll
+C:\Users\sebas\source\repos\DS-2024-1C-Técnicas de Programación\Tarea5_Ej9\obj\Debug\net5.0\refint\Tarea5_Ej9.dll
+C:\Users\sebas\source\repos\DS-2024-1C-Técnicas de Programación\Tarea5_Ej9\obj\Debug\net5.0\Tarea5_Ej9.pdb
+C:\Users\sebas\source\repos\DS-2024-1C-Técnicas de Programación\Tarea5_Ej9\obj\Debug\net5.0\Tarea5_Ej9.genruntimeconfig.cache
+C:\Users\sebas\source\repos\DS-2024-1C-Técnicas de Programación\Tarea5_Ej9\obj\Debug\net5.0\ref\Tarea5_Ej9.dll
