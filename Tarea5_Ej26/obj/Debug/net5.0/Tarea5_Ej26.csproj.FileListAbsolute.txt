@@ -1,0 +1,16 @@
+C:\Users\sebas\source\repos\DS-2024-1C-Técnicas de Programación\Tarea5_Ej26\bin\Debug\net5.0\Tarea5_Ej26.exe
+C:\Users\sebas\source\repos\DS-2024-1C-Técnicas de Programación\Tarea5_Ej26\bin\Debug\net5.0\Tarea5_Ej26.deps.json
+C:\Users\sebas\source\repos\DS-2024-1C-Técnicas de Programación\Tarea5_Ej26\bin\Debug\net5.0\Tarea5_Ej26.runtimeconfig.json
+C:\Users\sebas\source\repos\DS-2024-1C-Técnicas de Programación\Tarea5_Ej26\bin\Debug\net5.0\Tarea5_Ej26.runtimeconfig.dev.json
+C:\Users\sebas\source\repos\DS-2024-1C-Técnicas de Programación\Tarea5_Ej26\bin\Debug\net5.0\Tarea5_Ej26.dll
+C:\Users\sebas\source\repos\DS-2024-1C-Técnicas de Programación\Tarea5_Ej26\bin\Debug\net5.0\Tarea5_Ej26.pdb
+C:\Users\sebas\source\repos\DS-2024-1C-Técnicas de Programación\Tarea5_Ej26\obj\Debug\net5.0\Tarea5_Ej26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\source\repos\DS-2024-1C-Técnicas de Programación\Tarea5_Ej26\obj\Debug\net5.0\Tarea5_Ej26.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\DS-2024-1C-Técnicas de Programación\Tarea5_Ej26\obj\Debug\net5.0\Tarea5_Ej26.AssemblyInfo.cs
+C:\Users\sebas\source\repos\DS-2024-1C-Técnicas de Programación\Tarea5_Ej26\obj\Debug\net5.0\Tarea5_Ej26.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\DS-2024-1C-Técnicas de Programación\Tarea5_Ej26\obj\Debug\net5.0\Tarea5_Ej26.sourcelink.json
+C:\Users\sebas\source\repos\DS-2024-1C-Técnicas de Programación\Tarea5_Ej26\obj\Debug\net5.0\Tarea5_Ej26.dll
+C:\Users\sebas\source\repos\DS-2024-1C-Técnicas de Programación\Tarea5_Ej26\obj\Debug\net5.0\refint\Tarea5_Ej26.dll
+C:\Users\sebas\source\repos\DS-2024-1C-Técnicas de Programación\Tarea5_Ej26\obj\Debug\net5.0\Tarea5_Ej26.pdb
+C:\Users\sebas\source\repos\DS-2024-1C-Técnicas de Programación\Tarea5_Ej26\obj\Debug\net5.0\Tarea5_Ej26.genruntimeconfig.cache
+C:\Users\sebas\source\repos\DS-2024-1C-Técnicas de Programación\Tarea5_Ej26\obj\Debug\net5.0\ref\Tarea5_Ej26.dll
